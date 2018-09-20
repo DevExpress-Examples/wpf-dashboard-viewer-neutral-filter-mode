@@ -9,7 +9,7 @@
     xmlns:local="clr-namespace:Wpf_NeutralFilterMode_Example"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Width="500"
-    Height="412"
+    Height="445"
     mc:Ignorable="d"
     Title="MainWindow">
 
