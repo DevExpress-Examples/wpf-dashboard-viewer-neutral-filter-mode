@@ -1,4 +1,4 @@
-# WPF Dashboard Viewer - Neutral Filter Mode
+# Dashboard for WPF - Neutral Filter Mode
 
 This example demonstrates the [neutral filter mode](https://docs.devexpress.com/Dashboard/400262) in WPF Dashboard Viewer.
 
