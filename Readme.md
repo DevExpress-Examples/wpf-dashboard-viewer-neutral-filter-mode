@@ -3,17 +3,16 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/T830515)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
-
-* [MainWindow.xaml](./CS/Wpf_NeutralFilterMode_Example/Wpf_NeutralFilterMode_Example/MainWindow.xaml)
-<!-- default file list end -->
 
 # Dashboard for WPF - Neutral Filter Mode
 
 This example demonstrates the [neutral filter mode](https://docs.devexpress.com/Dashboard/400262) in WPF Dashboard Viewer.
 
 ![](./images/wpf-dashboard-viewer-neutral-filter-mode.png)
+
+##  Files to Review
+
+* [MainWindow.xaml](./CS/Wpf_NeutralFilterMode_Example/Wpf_NeutralFilterMode_Example/MainWindow.xaml)
 
 ## Documentation
 
