@@ -24,7 +24,7 @@ This example demonstrates the [neutral filter mode](https://docs.devexpress.com/
 
 - [Dashboard for WPF - How to Set Master Filter in the DashboardControl](https://github.com/DevExpress-Examples/wpf-dashboard-how-to-set-master-filter)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dashboard-viewer-neutral-filter-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-dashboard-viewer-neutral-filter-mode&~~~was_helpful=no)
 
